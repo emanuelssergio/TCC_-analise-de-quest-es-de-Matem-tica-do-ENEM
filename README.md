@@ -26,7 +26,9 @@ O desenvolvimento das análises e o processamento dos dados foram realizados uti
 
 🚀 Como Executar o Projeto
 
-Este projeto foi feito usando a plataforma do Google colab, mas se deseje usar o arquivo local e so seguir o passo a passo
+Este projeto foi feito usando a plataforma do Google colab, mas se deseje usar o arquivo local e so seguir o passo a passo a seguir
+
+
 Clone o repositório:
 git clone https://github.com/emanuelssergio/TCC_-analise-de-quest-es-de-Matem-tica-do-ENEM.git
 
